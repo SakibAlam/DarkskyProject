@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1553282814630" stop="1553282821207" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify todays date from time machine button</name>
+    <title>Verify todays date from time machine button</title>
+    <test-cases>
+        <test-case start="1553282814669" stop="1553282814675" status="passed">
+            <name>Given I am on Darksky home page</name>
+            <title>Given I am on Darksky home page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Technosofts-MBP"/>
+                <label name="thread" value="22276@Technosofts-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553282820437" stop="1553282820437" status="passed">
+            <name>When I click on time machine button</name>
+            <title>When I click on time machine button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Technosofts-MBP"/>
+                <label name="thread" value="22276@Technosofts-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553282821042" stop="1553282821042" status="passed">
+            <name>Then I verify today's date is selected</name>
+            <title>Then I verify today's date is selected</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Technosofts-MBP"/>
+                <label name="thread" value="22276@Technosofts-MBP.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify todays date from time machine button"/>
+        <label name="feature" value="Darksky click on time machine button"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1553282833053" stop="1553282833932" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify if hours are every two hour</name>
+    <title>Verify if hours are every two hour</title>
+    <test-cases>
+        <test-case start="1553282833053" stop="1553282833054" status="passed">
+            <name>Given I am on Darksky home page</name>
+            <title>Given I am on Darksky home page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Technosofts-MBP"/>
+                <label name="thread" value="22276@Technosofts-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553282833584" stop="1553282833584" status="passed">
+            <name>When Print all the hours displayed</name>
+            <title>When Print all the hours displayed</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Technosofts-MBP"/>
+                <label name="thread" value="22276@Technosofts-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553282833587" stop="1553282833587" status="passed">
+            <name>When printing my own hours list</name>
+            <title>When printing my own hours list</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Technosofts-MBP"/>
+                <label name="thread" value="22276@Technosofts-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553282833812" stop="1553282833812" status="passed">
+            <name>Then I verify both list same</name>
+            <title>Then I verify both list same</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Technosofts-MBP"/>
+                <label name="thread" value="22276@Technosofts-MBP.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify if hours are every two hour"/>
+        <label name="feature" value="Darksky click on time machine button"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
